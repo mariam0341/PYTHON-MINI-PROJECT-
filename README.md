@@ -18,5 +18,3 @@ This is a Python Number Guessing Game created as a mini project.
 3. Guess the number between 1 and 100.
 4. Play again if you want.
 
-## Author
-Your Name
